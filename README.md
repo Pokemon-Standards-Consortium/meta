@@ -1,2 +1,9 @@
-# meta
-Information about the Pokémon Standards Consortium itself
+# About PSC
+
+# Process
+
+# GitHub structure
+
+# Members
+## Organizations/Sites
+## Individuals
