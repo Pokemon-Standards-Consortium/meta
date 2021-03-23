@@ -1,7 +1,7 @@
 # About PSC
 The Pokémon Standards Consortium (PSC) is a collaboration between various stakeholders in the Pokémon community to agree upon common formats to communicate information.
 
-# Process
+# Standards process
 The process for PSC standards documents is loosely based on processes used by IETF, W3C, and ISO, as well as common software release life cycles.
 
 There are five stages of a PSC standards document:
@@ -18,11 +18,13 @@ On a biweekly basis, the list of Finalized Standards will be reviewed by the Con
 
 # GitHub structure
 ## standards
-The standards repository is where all standards documents are stored. Final documents are published in the final branch, whereas documents at all working stages are in the drafts branch.
+The standards repository is where all standards documents are stored. Final documents are published in the final branch, whereas documents at all working stages are in the drafts branch. Where applicable, this repository also includes formed JSON versions of the standards for ease of use.
 ## meta
 The meta repository contains information on the Pokémon Standards Consortium itself, including the procedure for creating a standards document, a list of members, etc.
 
-# Members
+# Membership
+Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents.
+
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
 
 Membership to the Pokémon Standards Consortium is available upon request.
