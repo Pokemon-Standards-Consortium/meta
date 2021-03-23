@@ -14,7 +14,7 @@ Once an Early Draft reaches a point where the sponsor feels that the document is
 ## Publication Candidate
 On a biweekly basis, the list of Working Drafts will be reviewed by the Consortium, and each will be put up for vote to move to Publication Candidate. Two days (48 hours) will be given to vote, after which the decision will be made based on a plurality of voting members. Once a Publication Candidate, members are encouraged to communicate the documents to their organizations for review.
 ## Finalized Standard
-On a biweekly basis, the list of Finalized Standards will be reviewed by the Consortium, and each will be put up for vote to move to Finalized Standard. Seven days (168 hours) will be given to vote, after which the decision will be made based on a plurality of voting members. Once a Finalized Standard, the document is considered finished. Minor amendments may be made afterwards, starting as late in the process as Working Drafts.
+On a biweekly basis, the list of Finalized Standards will be reviewed by the Consortium, and each will be put up for vote to move to Finalized Standard. Seven days (168 hours) will be given to vote, after which the decision will be made based on a plurality of voting members. Once a Finalized Standard, the document is considered finished and ready for use. Minor amendments may be proposed afterwards, starting as late in the process as Working Drafts (without assigning a new PSC ID).
 
 # GitHub structure
 ## standards
@@ -23,8 +23,10 @@ The standards repository is where all standards documents are stored. Final docu
 The meta repository contains information on the Pokémon Standards Consortium itself, including the procedure for creating a standards document, a list of members, etc.
 
 # Membership
-Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents.
-
+Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents. Voting and sponsoring/seconding a Proposal are the primary rights granted to members.
+## List of members
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
-
-Membership to the Pokémon Standards Consortium is available upon request.
+### Board members
+The following are members of the PSC Management Board. The Board has few responsibilities, as the majority of PSC operations are driven by all members. Board responsibilities include moderation of the PSC Discord, administration of the GitHub, and the processing of member applications.
+## Becoming a member
+If you are interested in becoming a member, please apply using this form: [INSERT FORM LINK]. Applications will be reviewed by a member of the Board and usually get approved within 48 hours. If there is an issue with an application, or in the extremely rare occasion where an application would be denied, a Board member will reach out to the applicant to discuss.
