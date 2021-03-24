@@ -25,8 +25,15 @@ On a biweekly basis, the list of Finalized Standards will be reviewed by the Con
 Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents. Voting and sponsoring/seconding a Proposal are the primary rights granted to members.
 ## List of members
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
+* Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
+* Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358)
+* Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626)
+* Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
+* Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
+* Michael Martin (Discord: Michael PokePop Martin#1966)
 ### Board members
 The following are members of the PSC Management Board. The Board has few responsibilities, as the majority of PSC operations are driven by all members. Board responsibilities include moderation of the PSC Discord, administration of the GitHub (including approving pull requests), and the processing of member applications.
+* Matthew Verive
 ## Becoming a member
 If you are interested in becoming a member, please [apply using this form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAK9gcItUMjBKQUQ0VVBaSzhRWlI4SldYRktJWUJYUi4u). Applications will be reviewed by a member of the Board and usually get approved within 48 hours. If there is an issue with an application, or in the extremely rare occasion where an application would be denied, a Board member will reach out to the applicant to discuss.
 
