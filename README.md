@@ -11,7 +11,7 @@ The process for PSC standards documents is loosely based on processes used by th
 
 There are five stages of a PSC standards document:
 ## Proposal
-A Proposal can be created by anyone, regardless of membership in PSC. Proposals are fairly informal, as most of the work will be done in the Early Draft stage, but we ask that Proposals include a basic overview of the scope and desired outcome. Fu
+A Proposal can be created by anyone, regardless of membership in PSC. Proposals are fairly informal, as most of the work will be done in the Early Draft stage, but we ask that Proposals include a basic overview of the scope and desired outcome.
 ## Early Draft
 Once a Proposal gets sponsored by a member (if a member submitted a Proposal, they sponsor it by default) and seconded by another member (from a different organization if the sponsor is representing an organization), an Early Draft is created. A PSC ID is assigned at this point, to allow for easy tracking.
 ## Working Draft
@@ -25,9 +25,11 @@ On a biweekly basis, the list of Finalized Standards will be reviewed by the Con
 Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents. Voting and sponsoring/seconding a Proposal are the primary rights granted to members.
 ## List of members
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
+* Dillon Bast (GitHub: Dillonzer / Discord: Dillonzer#2501)
 * Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
 * Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358)
 * Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626)
+* Karl Apsite (GitHub: CptSpaceToaster / Discord: CptSpaceToaster#9082)
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
 * Michael Martin (Discord: Michael PokePop Martin#1966)
