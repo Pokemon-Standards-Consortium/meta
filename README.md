@@ -1,3 +1,4 @@
+# About PSC
 The mission of the **Pokémon Standards Consortium** is to ensure the interoperability of information related to the Pokémon franchise between organizations by developing well-defined and clear methods. This is a semi-formal, community-driven initiative that will allow for more data portability across projects and organizations, working directly with those who hope to benefit from the Consortium's efforts to ensure rigid standards.
 
 - [Communication](#communication)
