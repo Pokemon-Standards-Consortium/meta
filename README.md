@@ -1,20 +1,7 @@
+**Quick links:** [Become a member](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAK9gcItUMjBKQUQ0VVBaSzhRWlI4SldYRktJWUJYUi4u) | [Join the Discord](https://discord.gg/f7jXyE2C4h)
+
 # About PSC
 The mission of the **Pokémon Standards Consortium** is to ensure the interoperability of information related to the Pokémon franchise between organizations by developing well-defined and clear methods. This is a semi-formal, community-driven initiative that will allow for more data portability across projects and organizations, working directly with those who hope to benefit from the Consortium's efforts to ensure rigid standards.
-
-- [Communication](#communication)
-- [Standards process](#standards-process)
-  * [Proposal](#proposal)
-  * [Early Draft](#early-draft)
-  * [Working Draft](#working-draft)
-  * [Publication Candidate](#publication-candidate)
-  * [Finalized Standard](#finalized-standard)
-- [Membership](#membership)
-  * [List of members](#list-of-members)
-    + [Board members](#board-members)
-  * [Becoming a member](#becoming-a-member)
-- [GitHub structure](#github-structure)
-  * [standards](#standards)
-  * [meta](#meta)
 
 # Communication
 Most formal communication should be done in the PSC GitHub for transparency and easy tracking. Issues should be created for all Proposals, as well as topics of discussion. Informal communication, as well as all voting, will be done in [the PSC Discord](https://discord.gg/f7jXyE2C4h).
