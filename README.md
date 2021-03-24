@@ -8,7 +8,7 @@ There are five stages of a PSC standards document:
 ## Proposal
 A Proposal can be created by anyone, regardless of membership in PSC.
 ## Early Draft
-Once a Proposal gets sponsored by a member and seconded by another member (from a different organization if the member is a representative), an Early Draft is created. A PSC ID is assigned at this point, to allow for easy tracking.
+Once a Proposal gets sponsored by a member (if a member submitted a Proposal, they sponsor it by default) and seconded by another member (from a different organization if the sponsor is representing an organization), an Early Draft is created. A PSC ID is assigned at this point, to allow for easy tracking.
 ## Working Draft
 Once an Early Draft reaches a point where the sponsor feels that the document is mostly complete, it becomes a Working Draft. Working Drafts are to be reviewed by all members to determine if any changes need to be made.
 ## Publication Candidate
