@@ -27,12 +27,13 @@ Organizations and individuals can become members of PSC to provide input through
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
 * Dillon Bast (GitHub: Dillonzer / Discord: Dillonzer#2501)
 * Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
-* Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358)
-* Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626)
+* Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358), representing PkmnCards
+* Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626), representing Pokéxperto
 * Karl Apsite (GitHub: CptSpaceToaster / Discord: CptSpaceToaster#9082)
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
 * Michael Martin (Discord: Michael PokePop Martin#1966)
+* Richard Walkoski (Discord: Big Daddy Snorlax#0115)
 ### Board members
 The following are members of the PSC Management Board. The Board has few responsibilities, as the majority of PSC operations are driven by all members. Board responsibilities include moderation of the PSC Discord, administration of the GitHub (including approving pull requests), and the processing of member applications.
 * Matthew Verive
