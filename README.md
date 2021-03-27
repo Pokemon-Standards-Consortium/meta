@@ -35,6 +35,7 @@ The following are members of the Pokémon Standards Consortium. Members may be r
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
 * Michael Martin (Discord: Michael PokePop Martin#1966)
+* nago (Discord: nago#6641 / GitHub: nanoNago)
 * Richard Walkoski (Discord: Big Daddy Snorlax#0115)
 ### Board members
 The following are members of the PSC Management Board. The Board has few responsibilities, as the majority of PSC operations are driven by all members. Board responsibilities include moderation of the PSC Discord, administration of the GitHub (including approving pull requests), and the processing of member applications.
