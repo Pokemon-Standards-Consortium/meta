@@ -25,18 +25,18 @@ On a biweekly basis, the list of Finalized Standards will be reviewed by the Con
 Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents. Voting and sponsoring/seconding a Proposal are the primary rights granted to members.
 ## List of members
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
-* Daniel/Jezzabel (GitHub: NoelDavies / Discord: Jezzabel#1171)
+* Daniel/Jezzabel (GitHub: NoelDavies / Discord: Jezzabel#1171), representing Pokelink
 * Dillon Bast (GitHub: Dillonzer / Discord: Dillonzer#2501)
 * Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
-* Egon Olieux (GitHub: egonolieux / Discord: Egon#7473)
+* Egon Olieux (GitHub: egonolieux / Discord: Egon#7473), representing TCG Collector
 * Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358), representing PkmnCards
 * Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626), representing Pokéxperto
 * Karl Apsite (GitHub: CptSpaceToaster / Discord: CptSpaceToaster#9082)
-* Kim Cary (Discord: bulbasnore#0920)
+* Kim Cary (Discord: bulbasnore#0920), representing Team Compendium
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
 * Michael Martin (Discord: Michael PokePop Martin#1966)
-* nago (Discord: nago#6641 / GitHub: nanoNago)
+* nago (Discord: nago#6641 / GitHub: nanoNago), representing PkmnCards and Malie.io
 * Richard Walkoski (Discord: Big Daddy Snorlax#0115)
 ### Board members
 The following are members of the PSC Management Board. The Board has few responsibilities, as the majority of PSC operations are driven by all members. Board responsibilities include moderation of the PSC Discord, administration of the GitHub (including approving pull requests), and the processing of member applications.
