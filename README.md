@@ -15,7 +15,7 @@ A Proposal can be created by anyone, regardless of membership in PSC. Proposals 
 ## Early Draft
 Once a Proposal gets sponsored by a member (if a member submitted a Proposal, they sponsor it by default) and seconded by another member (from a different organization if the sponsor is representing an organization), an Early Draft is created. A PSC ID is assigned at this point, to allow for easy tracking.
 ## Working Draft
-Once an Early Draft reaches a point where the sponsor feels that the document is mostly complete, it becomes a Working Draft. Working Drafts are to be reviewed by all members to determine if any changes need to be made.
+Once an Early Draft reaches a point where the sponsor feels that the document is mostly complete, it becomes a Working Draft. Working Drafts should be reviewed by any members who would like to use the standard to determine if any changes need to be made.
 ## Publication Candidate
 On a biweekly basis, the list of Working Drafts will be reviewed by the Consortium, and each will be put up for vote to move to Publication Candidate. Two days (48 hours) will be given to vote, after which the decision will be made based on a plurality of voting members. Once a Publication Candidate, members are encouraged to communicate the documents to their organizations for review.
 ## Finalized Standard
