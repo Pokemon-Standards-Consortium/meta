@@ -25,6 +25,7 @@ On a biweekly basis, the list of Finalized Standards will be reviewed by the Con
 Organizations and individuals can become members of PSC to provide input throughout the standards process. You do not need to be a member to participate in discussion, create a Proposal, or (most importantly) utilize the standards documents. Voting and sponsoring/seconding a Proposal are the primary rights granted to members.
 ## List of members
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
+* Alexander Mattoni (GitHub: mattoni / Discord: AzayakaBaka#3196)
 * Dillon Bast (GitHub: Dillonzer / Discord: Dillonzer#2501)
 * Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
 * Egon Olieux (GitHub: egonolieux / Discord: Egon#7473), representing TCG Collector
