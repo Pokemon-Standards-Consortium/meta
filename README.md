@@ -37,6 +37,7 @@ The following are members of the Pokémon Standards Consortium. Members may be r
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
 * Michael Martin (Discord: Michael PokePop Martin#1966)
+* Morris Levy (GitHub: morrislevy / Discord: morrislevy#9109)
 * nago (Discord: nago#6641 / GitHub: nanoNago), representing PkmnCards and Malie.io
 * Richard Walkoski (Discord: Big Daddy Snorlax#0115)
 * Robin Schulz (GitHub: link--11 / Discord: link1111#3218), representing Limitless TCG
