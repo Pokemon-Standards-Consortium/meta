@@ -26,6 +26,7 @@ Organizations and individuals can become members of PSC to provide input through
 ## List of members
 The following are members of the Pokémon Standards Consortium. Members may be representatives of an organization or unaffiliated.
 * Alexander Mattoni (GitHub: mattoni / Discord: AzayakaBaka#3196)
+* Dana Pero (GitHub: dpzuul / Discord: zuul#0009), representing RK9 Labs
 * Dillon Bast (GitHub: Dillonzer / Discord: Dillonzer#2501)
 * Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
 * Egon Olieux (GitHub: egonolieux / Discord: Egon#7473), representing TCG Collector
