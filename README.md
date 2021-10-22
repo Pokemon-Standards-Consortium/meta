@@ -30,6 +30,7 @@ The following are members of the Pokémon Standards Consortium. Members may be r
 * Dillon Bast (GitHub: Dillonzer / Discord: Dillonzer#2501)
 * Elisabéth Diang (GitHub: acupoftee / Discord: elisabéth#7350)
 * Egon Olieux (GitHub: egonolieux / Discord: Egon#7473), representing TCG Collector
+* Florian Bouillon (GitHub: Aviortheking / Discord: Avior#3872), representing TCGdex
 * Jezzabel (GitHub: NoelDavies / Discord: Jezzabel#1171), representing Pokelink
 * Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358), representing PkmnCards
 * Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626), representing Pokéxperto
