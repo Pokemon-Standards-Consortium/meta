@@ -36,6 +36,7 @@ The following are members of the Pokémon Standards Consortium. Members may be r
 * Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626), representing Pokéxperto
 * Karl Apsite (GitHub: CptSpaceToaster / Discord: CptSpaceToaster#9082)
 * Kim Cary (Discord: bulbasnore#0920), representing Team Compendium
+* kuizeo (GitHub: kuizeo / Discord: kuizeo#5923)
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
 * Michael Martin (Discord: Michael PokePop Martin#1966)
