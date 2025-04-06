@@ -35,12 +35,12 @@ The following are members of the Pokémon Standards Consortium. Members may be r
 * Florian Bouillon (GitHub: Aviortheking / Discord: Avior#3872), representing TCGdex
 * Jezzabel (GitHub: NoelDavies / Discord: Jezzabel#1171), representing Pokelink
 * Jonathan "JP" Paranada (GitHub: jparanada / Discord: numberonesoniafan#2358), representing PkmnCards
-* Jorge Puyol (GitHub: Melkor / Discord: Melkor#0626), representing Pokéxperto
 * Karl Apsite (GitHub: CptSpaceToaster / Discord: CptSpaceToaster#9082)
 * Kim Cary (Discord: bulbasnore#0920), representing Team Compendium
 * kuizeo (GitHub: kuizeo / Discord: kuizeo#5923)
 * Matias Tamminen (GitHub: MatiasOETamminen / Discord: tammis#7340)
 * Matthew Verive (GitHub: immewnity / Discord: immewnity#8399)
+  Melkor (GitHub: Melkor / Discord: Melkor#0626), representing Pokéxperto
 * Michael Martin (Discord: Michael PokePop Martin#1966)
 * Morris Levy (GitHub: morrislevy / Discord: morrislevy#9109)
 * nago (Discord: nago#6641 / GitHub: nanoNago), representing PkmnCards and Malie.io
